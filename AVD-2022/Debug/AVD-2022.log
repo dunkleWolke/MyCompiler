@@ -1,0 +1,28 @@
+﻿  AVD-2022.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\AVD-2022.cpp(17,1): warning C4326: возвращаемый тип "wmain" должен быть "int", а не "void"
+  Errors.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\Errors.cpp(10,103): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_ENTRY_NODEF10"
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\Errors.cpp(70,9): warning C4804: <: небезопасное использование типа "bool" в операции
+  FST.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\FST.cpp(275,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Generation.cpp
+  GRB.cpp
+  In.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\In.cpp(30,22): warning C4018: <: несоответствие типов со знаком и без знака
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\In.cpp(46,23): warning C4018: <: несоответствие типов со знаком и без знака
+  IT.cpp
+  Lexanaliz.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\Lexanaliz.cpp(20,14): warning C4101: idtype: неиспользованная локальная переменная
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\Lexanaliz.cpp(18,23): warning C4101: INDX: неиспользованная локальная переменная
+  Log.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\Log.cpp(228,28): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  LT.cpp
+  MFST.cpp
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\MFST.cpp(225,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  PolishNotation.cpp
+  Semantic.cpp
+  Создание кода...
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\PolishNotation.cpp(145): warning C4715: PN::ArifmPriorities: значение возвращается не при всех путях выполнения
+N:\AVD-2022 FINAL\AVD-2022\AVD-2022\Errors.cpp(77): warning C4715: Error::geterrorin: значение возвращается не при всех путях выполнения
+  AVD-2022.vcxproj -> N:\AVD-2022 FINAL\AVD-2022\Debug\AVD-2022.exe

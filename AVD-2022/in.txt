@@ -1,0 +1,46 @@
+function unsigned integer su(unsigned integer a, unsigned integer b, unsigned integer d)
+{
+ declare unsigned integer res;
+ res = a+b+d;
+ return res;
+}
+main
+{
+ declare unsigned integer a;
+ declare unsigned integer b;
+ declare unsigned integer c;
+ a = 4;
+ b = 0x2;
+ declare function unsigned integer stepen(unsigned integer ui, unsigned integer us);
+ c = stepen(a,2);
+ print c;
+ declare unsigned integer sum;
+ sum = su(a,b,c);
+ print sum;
+ declare unsigned integer sumo;
+ sumo = su(1,a,3);
+ print sumo;
+ declare string str;
+ declare string stro;
+ str="exampleExample";
+ stro="example";
+ declare function unsigned integer sravs(string strm, string strl);
+ declare unsigned integer rezs;
+ rezs=sravs(str,stro);
+if(rezs==1)
+{
+ print "Okey";
+}
+if(b!=a)
+{
+ print "Yes";
+}
+if(a>=c)
+{
+ print "Yes";
+}
+if(b<=c)
+{
+ print "Yes";
+}
+}
